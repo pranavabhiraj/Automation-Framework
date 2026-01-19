@@ -1,8 +1,8 @@
 base_url: "https://semantic-brandea-banao-dc049ed0.koyeb.app"
 
 auth:
-  username: "your_username"
-  password: "your_password"
+  username: "qa_user_01" # specific username
+  password: "secure_password_123"
 
 test_case:
   target_vs_name: "backend-vs-t1r_1000-1"
