@@ -1,0 +1,13 @@
+base_url: "https://semantic-brandea-banao-dc049ed0.koyeb.app"
+
+auth:
+  username: "your_username"
+  password: "your_password"
+
+test_case:
+  target_vs_name: "backend-vs-t1r_1000-1"
+  disable_payload:
+    enabled: false
+
+execution:
+  parallel_workers: 4
